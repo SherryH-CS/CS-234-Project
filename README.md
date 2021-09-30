@@ -1,1 +1,4 @@
 # CS-234-Project
+This program is designed to simulate operating the inventory of a pen store. 
+Both inventory and individual item attributes (i.e. totals) can be modified, created, and deleted.
+Program should print two reports: inventory and sales. 
